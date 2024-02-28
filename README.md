@@ -1,4 +1,5 @@
 With this project you can make a Magnetic Tester
+"MagneticTester.zip" is the gerber
 - test eat flyback transformer
 - test a magnetic component
 - dcdc transformer
